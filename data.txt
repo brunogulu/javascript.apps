@@ -1,0 +1,17 @@
+[
+{
+	"nombre": "Bruno",
+	"apellido": "Pittilini",
+	"fecha": "10/01/1993"
+},
+{
+	"nombre": "Ricardo",
+	"apellido": "Fort",
+	"fecha": "12/05/1974"
+},
+{
+	"nombre": "Lionel",
+	"apellido": "Messi",
+	"fecha": "28/11/1989"
+}
+]

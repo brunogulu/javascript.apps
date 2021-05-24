@@ -1,0 +1,19 @@
+.wrapper {
+  display: -ms-grid;
+  display: grid;
+  place-content: center;
+  margin-top: 2em;
+}
+
+table {
+  text-align: center;
+}
+
+table th {
+  padding: 0.2em 0.7em;
+}
+
+h3 {
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
